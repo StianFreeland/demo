@@ -1,0 +1,15 @@
+{
+  "zap": {
+    "debug": false,
+    "level": 0
+  },
+  "mongo": {
+    "scheme": "mongodb",
+    "username": "root",
+    "password": "123456",
+    "address": "127.0.0.1:27017"
+  },
+  "kernel": {
+    "port": "80"
+  }
+}
